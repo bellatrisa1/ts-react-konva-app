@@ -1,0 +1,31 @@
+* {
+  font-family: "Montserrat", serif;
+}
+
+button {
+  margin: 5px;
+  padding: 20px 40px;
+  font-size: 16px;
+  border-radius: 25px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  background-color: #1E5945;
+  color: white;
+  margin-left: 45%;
+}
+
+button:hover {
+  background-color: #89AC76;
+}
+
+.text-editor {
+  font-size: 32px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background: white;
+  border: 1px solid #ccc;
+  padding: 10px;
+  z-index: 10;
+}
