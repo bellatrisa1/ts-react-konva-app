@@ -13,11 +13,11 @@
   4. Draft.js — для редактирования текста.
 
 ## Установка и запуск:
-  1. Клонируйте репозиторий:
-    ### git clone https://github.com/bellatrisa1/ts-react-konva-app.git
-  2. Установите зависимости:
-    ### git install
-  3. Запустите локальный сервер:
-    ### npm start
+  1. Клонируйте репозиторий.
+      ### git clone https://github.com/bellatrisa1/ts-react-konva-app.git
+  2. Установите зависимости.
+      ### git install
+  3. Запустите локальный сервер.
+      ### npm start
 ## Приложение будет доступно на:
 [http://localhost:3000](http://localhost:3000)
