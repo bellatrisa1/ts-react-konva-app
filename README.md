@@ -14,10 +14,10 @@
 
 ## Установка и запуск:
   1. Клонируйте репозиторий:
-    ### `git clone https://github.com/bellatrisa1/ts-react-konva-app.git`
+    ### git clone https://github.com/bellatrisa1/ts-react-konva-app.git
   2. Установите зависимости:
-    ### `git install`
+    ### git install
   3. Запустите локальный сервер:
-    ### `npm start`
+    ### npm start
 ## Приложение будет доступно на:
 [http://localhost:3000](http://localhost:3000)
